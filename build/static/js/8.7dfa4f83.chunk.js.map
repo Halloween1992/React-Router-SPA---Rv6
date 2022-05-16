@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/NoPageFound.js"],"names":["NoPageFound","props","className"],"mappings":"6LAAe,SAASA,EAAYC,GAClC,OAAO,oBAAIC,UAAU,WAAd","file":"static/js/8.7dfa4f83.chunk.js","sourcesContent":["export default function NoPageFound(props) {\r\n  return <h1 className=\"centered\"> PAGE NOT FOUND! </h1>;\r\n}\r\n"],"sourceRoot":""}
